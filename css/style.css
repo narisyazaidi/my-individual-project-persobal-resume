@@ -1,0 +1,449 @@
+.resumelogo
+        {
+          position: absolute;
+          top: -85px;;
+          left: -50px;
+        }
+.main-page{
+    z-index: -1;
+    left: 0px;
+}
+.main-page2{
+    position: absolute;
+    top: 300px;
+    z-index: -1;
+    left: 0px;
+}
+.button-biodata{
+    position: absolute;
+    top: -80px;
+    left: 136px;
+    text-align: center;
+}
+.button-education{
+    position: absolute;
+    top: -50px;
+    left: -225px;
+    text-align: center;
+}
+.button-experiences{
+    position: absolute;
+    top: -140px;
+    left: 634px;
+    text-align: center;
+}
+.button-skills{
+    position: absolute;
+    top: -110px;
+    right: 353px; 
+    text-align: center;
+}
+.button-others{
+    position: absolute;
+    top: -85px;
+    right: 333px; 
+    text-align: center;
+}
+.button-gallery{
+    position: absolute;
+    top: -84px;
+    right: 46px; 
+    text-align: center;
+}
+.button-contact{
+    position: absolute;
+    top: -113px;
+    right: -31px; 
+    text-align: center;
+}
+.button-references{
+    position: absolute;
+    top: -87px;
+    right: -72px; 
+    text-align: center;
+}
+.my-picture{
+    position: absolute;
+    top: -110px;
+    right:50px;
+}
+.lotus{
+    position: absolute;
+    top: -210px;
+    right:520px;
+}
+.sunflower{
+    position: absolute;
+    top: 270px;
+    right:460px;
+}
+.tree{
+    position: absolute;
+    top: 175px;
+    right:525px;
+}
+.white-daisy{
+    position: absolute;
+    top: 827px;
+    right:500px;
+}
+.education
+        {
+        z-index: -1;
+        left: 0px;
+        }
+.book{
+    position: absolute;
+    top:406px;
+    right:490px;
+        }
+.calculator{
+    position: absolute;
+    top:406px;
+    right:0px;
+        }
+.lavender{
+    position: absolute;
+    top:495px;
+    right:0px;
+        }
+.hiking{
+    position: absolute;
+    top:813px;
+    right:470px;
+        }
+.navigation{
+    width: 100%;
+    height: 15vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content:right;
+    position: absolute;
+}
+.Others-button{
+    padding-left: 363px;
+    margin-top: -8px;
+}
+.References-button{
+    padding-left: 727px;
+    margin-top: 1px;
+}
+.Looking{
+    color:wheat;
+    text-align: center;
+    font-weight: bolder;
+}
+.Experiences
+        {
+    z-index: -1;
+    left: 0px;
+        }
+.daisy{
+     position: absolute;
+    top: 164px;
+    right:0px;
+        }
+.tulip{
+    position: absolute;
+    top: 363px;
+    right:0px;
+        }
+.laptop{
+    position: absolute;
+    top: 1060px;
+    left:1px;
+        }   
+.malaysia-flag{
+    position: absolute;
+    top: -20px;
+    left:25px;
+        }
+.eng-flag{
+    position: absolute;
+    top:-116px;
+    left:200px;
+        }
+.spanish-flag{
+    position: absolute;
+    top:125px;
+    right:400px;
+        }
+.french-flag{
+    position: absolute;
+    top:61px;
+    right:33px;
+        }
+.computer{
+    position: absolute;
+    top:1105px;
+    left: -9px;
+            }
+.office{
+    position: absolute;
+    top: -18px;
+    left: 470px;   
+    background-color: aliceblue;
+        }
+.SQL{
+    position: absolute;
+    top: 721px;
+    left: 470px;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    border: 12pt;
+    border: rgb(168, 158, 158);
+    border-width: 12pt;
+    border-collapse: collapse;
+        }
+.IBM{
+    position: absolute;
+    top: 845px;
+    left: 20px;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    border: 12pt;
+    border: rgb(168, 158, 158);
+    border-width: 12pt;
+    border-collapse: collapse;
+        }
+.FIS{
+    position: absolute;
+    top: 845px;
+    left: 245px;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    border: 12pt;
+    border: rgb(168, 158, 158);
+    border-width: 12pt;
+    border-collapse: collapse;
+        }
+.VBA{
+    position: absolute;
+    top: 7px;
+    left: 16px;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    border: 12pt;
+    border: rgb(168, 158, 158);
+    border-width: 12pt;
+     border-collapse: collapse;
+        }
+.head{
+position: absolute;
+top: -930px;
+left:400px;
+        }
+.hamster{
+position: absolute;
+ top: -790px;
+right:540px;
+        }
+.parrot{
+position: absolute;
+top: -35px;
+right:480px;
+        }
+.hand{
+position: absolute;
+top: 135px;
+left:220px;
+        }     
+.daisy{
+position: absolute;
+ top: 164px;
+ right:0px;
+        }
+.tulip{
+position: absolute;
+top: 363px;
+right:0px;
+        }
+.laptop{
+position: absolute;
+ top: 1060px;
+ left:1px;
+        }
+        .daily{
+            position: absolute;
+            top:-30px;
+            right:98px;
+            transform: rotate(2.7deg);
+            border: 2pt;
+            border-color: rgb(94, 71, 71);
+            border-style: solid;
+        }
+        .client{
+            position: absolute;
+            top:75px;
+            right:107px;
+            transform: rotate(2.45deg);
+            border: 2pt;
+            border-color: rgb(94, 71, 71);
+            border-style: solid;
+        }
+        .math{
+            position: absolute;
+            top:182px;
+            right:110px;
+            transform: rotate(2.7deg);
+            border: 2pt;
+            border-color: rgb(94, 71, 71);
+            border-style: solid;
+        }
+        .rose{
+            position: absolute;
+            top:200px;
+            right:320px;
+            transform: rotate(4deg);
+        }
+        .starlight{
+            position: absolute;
+            top:115px;
+            right:400px;
+            transform: rotate(4deg);
+        }
+        .starlight-2{
+            position: absolute;
+            top:155px;
+            right:20px;
+            transform: rotate(-4deg);
+        }
+        .starlight-3{
+            position: absolute;
+            top:205px;
+            right:500px;
+            transform: rotate(0.5deg);
+        }
+        .Family
+                {
+            top: 900px;
+            z-index: -1;
+            left: 0px;
+                }
+        .raya{
+            position: absolute;
+            top:383px;
+            right:-5px;
+        }
+        .dinner{
+            position: absolute;
+            top:651px;
+            right:-5.5px;
+        }
+        .lotus{
+            position: absolute;
+            top:870px;
+            left:10px;
+        }
+        .arrow{
+            position: absolute;
+            top:230px;
+            left:-30px;
+            transform: rotate(-6deg);
+        }
+        .love{
+            position: absolute;
+            top:560px;
+            left:222px;
+        }             
+        .contact-me{
+            position: absolute;
+            top:-150px;
+            right:50px;
+        }
+        .white-bunny{
+            position: absolute;
+            top:102px;
+            right:550px;
+        }
+        .tulip{
+            position: absolute;
+            top:-82px;
+            left:222px;
+        }
+
+
+
+
+
+
+
+button{
+    width: 200px;
+    padding: 73px 150px 10px;
+    text-align: center;
+    direction: ltr;
+    display: inline-block;
+    direction: ltr;
+    margin: -85px -75px;
+    margin-left: 135px;
+    border-radius: -100px;
+    border-width: 0px;
+    border-spacing: 40px;
+    border-color:#B61F48;
+    font-size: 13pt;
+    font-weight: bold;
+    border: 5px, #105855;
+    background: transparent;
+    color:rgb(162, 157, 69);
+    cursor: pointer;
+    position: relative;
+    overflow:visible;
+
+}
+
+button:hover span{
+   width: 100%;
+}
+button:hover{
+    border: none;
+ }
+.h1{
+    font-size: 22pt;
+    text-align: center;
+    margin-top: 40px;
+    color: azure;
+    word-spacing: normal;
+    white-space: nowrap;
+}
+.h2{
+    font-size: 22pt;
+    text-align: center;
+    margin-top: -500px;
+    color:yellowgreen;
+    word-spacing: normal;
+    white-space: nowrap;
+    padding-top: -300px;
+}
+.borderpic{
+    border:rgba(128, 66, 66, 0.518);
+    padding-right: 20px;
+}
+.img-with-text-below{
+    position: relative;
+    padding-right: 10pt;
+    text-align: right;
+    color: #000;
+}
+.h3{
+    font-size: 22pt;
+    text-align:justify;
+    margin-top: 40px;
+    color:yellowgreen;
+    word-spacing: normal;
+    white-space: nowrap;
+}
+.p3{
+    align-content: center;
+}
+.h9{
+    font-size: 22pt;
+    text-align:center;
+    margin-top: 40px;
+    color:yellowgreen;
+    word-spacing: normal;
+    white-space:nowrap;
+    float: right;
+    text-justify: distribute-all-lines;
+}
